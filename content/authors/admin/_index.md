@@ -47,10 +47,9 @@ profiles:
 interests:
   - Sentiment Analysis
   - Text Summarization
-  - Information Retrieval
 
 education:
-  - area: MSc in Information Science
+  - area: MSc Information Science
     institution: Japan Advanced Institute of Science and Technology
     date_start: 2024-10-01
     date_end: 2025-09-24
@@ -59,21 +58,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Information Technology
+    institution: National Economics University, Vietnam
+    date_start: 2018-09-05
+    date_end: 2022-07-31
     summary: |
       GPA: 3.4/4.0
       
@@ -181,4 +169,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Khanh-Vinh Nguyen (you can call me Vinh), a master's student and an NLP amateur. I'm pursuing my master's degree in Japan under the supervision of Shirai Kiyoaki sensei. My research now focuses on Sentiment Analysis and Opinion Summarization.
+During the summer of 2024, I visited Singapore to do a research internship at the Asian Institute of Digital Finance, NUS Singapore.
+Previously, I was a teaching assistant at VNU University of Engineering and Technology, Vietnam, and a research assistant at the data science and knowledge technology laboratory (FIT, VNU UET). From 2019, I worked as a software engineer for nearly 2 years at Giaohangtietkiem JSC.
+
+In my free time, I travel and dance hip-hop. Thanks for visiting my site and have a nice day 🥰.
