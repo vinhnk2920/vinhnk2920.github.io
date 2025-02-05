@@ -170,7 +170,7 @@ awards:
 ## About Me
 
 I'm Khanh-Vinh Nguyen (you can call me Vinh), a master's student and an NLP amateur. I'm pursuing my master's degree in Japan under the supervision of Shirai Kiyoaki sensei. My research now focuses on Sentiment Analysis and Opinion Summarization.
-During the summer of 2024, I visited Singapore to do a research internship at the Asian Institute of Digital Finance, NUS Singapore.
-Previously, I was a teaching assistant at VNU University of Engineering and Technology, Vietnam, and a research assistant at the data science and knowledge technology laboratory (FIT, VNU UET). From 2019, I worked as a software engineer for nearly 2 years at Giaohangtietkiem JSC.
+<!-- During the summer of 2024, I visited Singapore to do a research internship at the Asian Institute of Digital Finance, NUS Singapore.
+Previously, I was a teaching assistant at VNU University of Engineering and Technology, Vietnam, and a research assistant at the data science and knowledge technology laboratory (FIT, VNU UET). From 2019, I worked as a software engineer for nearly 2 years at Giaohangtietkiem JSC. -->
 
 In my free time, I travel and dance hip-hop. Thanks for visiting my site and have a nice day 🥰.
