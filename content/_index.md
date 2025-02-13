@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        With the explosive growth of e-commerce, millions of user reviews are continuously generated across multiple platforms.However, examining all these reviews imposes a lot of burden on users. To tackle this problem, opinion summarization is an emerging approach, which produces a condensed and informative summary from multiple user reviews [1]. Unlike traditional multi-document summarization, opinion summarization focuses on the aspects and opinions in the input documents. Unfortunately, this task has faced a significant challenge due to the lack of datasets. It is difficult and costly for annotators to write summaries for multiple reviews from various domains on a large scale. In addition, most previous studies have not focused on implicit aspects not conveyed by explicit words.
+
+        I want to proposes a novel method of weakly supervised learning for opinion summarization. The method involves automatically building a dataset comprising multiple reviews and their corresponding summaries, followed by training a seq2seq model to convert multiple reviews into a summary using the constructed dataset. In detail, our data construction method is expected to pay attention to sentiment, such as positive or negative, to help the generated summary be more appropriate. From a given set of reviews, samples in a dataset are constructed by choosing one review as a pseudo summary and dividing the remaining reviews into explicit and implicit reviews, which contain explicit and implicit aspects respectively. In this process, the sentiment of review is heavily considered to create more appropriate samples.
+
     design:
       columns: '1'
   # - block: collection
