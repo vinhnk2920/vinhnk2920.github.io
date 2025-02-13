@@ -54,10 +54,21 @@ education:
     date_start: 2024-10-01
     date_end: 2025-09-24
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 88.67/100
+      Courses included:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Thesis on Weakly Supervised Opinion Summarization with Focus on Implicit Aspects. Supervised by [Assoc Prof. Kiyoaki Shirai](https://www.jaist.ac.jp/~kshirai/index-e.html).
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: ' Read research Proposal'
+      url: 'https://drive.google.com/file/d/1_hqyy8AaGc-WJE1XEQh1uaTn-QZdfQZH/view?usp=sharing'
   - area: BSc Information Technology
     institution: National Economics University, Vietnam
     date_start: 2018-09-05
