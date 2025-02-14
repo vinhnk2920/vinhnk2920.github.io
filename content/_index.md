@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
 
-        With the explosive growth of e-commerce, millions of user reviews are continuously generated across multiple platforms However, examining all these reviews imposes a lot of burden on users. To tackle this problem, opinion summarization is an emerging approach, which produces a condensed and informative summary from multiple user reviews. Unlike traditional multi-document summarization, opinion summarization focuses on the aspects and opinions in the input documents Unfortunately, this task has faced a significant challenge due to the lack of datasets. It is difficult and costly for annotators to write summaries for multiple reviews from various domains on a large scale. In addition, most previous studies have not focused on implicit aspects not conveyed by explicit words.
+        With the explosive growth of e-commerce, millions of user reviews are continuously generated across multiple platforms However, examining all these reviews imposes a lot of burden on users. To tackle this problem, opinion summarization is an emerging approach, which produces a condensed and informative summary from multiple user reviews. Unlike traditional multi-document summarization, opinion summarization focuses on the aspects and opinions in the input documents. Unfortunately, this task has faced a significant challenge due to the lack of datasets. It is difficult and costly for annotators to write summaries for multiple reviews from various domains on a large scale.
 
     design:
       columns: '1'
