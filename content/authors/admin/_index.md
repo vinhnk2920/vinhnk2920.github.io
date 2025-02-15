@@ -142,6 +142,7 @@ skills:
       - name: Dance
         description: 'Hip-hop dance'
         percent: 80
+        icon: person-simple-walk
 
 languages:
   - name: Vietnamese
