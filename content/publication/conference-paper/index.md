@@ -7,9 +7,9 @@ title: 'Integrating Ontology-based Knowledge to Improve Biomedical Multi-Documen
 authors:
   - Quoc-An Nguyen
   - admin
-  - Hoang-Quynh Le,
+  - Hoang-Quynh Le
   - Duy-Cat Can
-  - Tam Doan-Thanh,
+  - Tam Doan-Thanh
   - Trung-Hieu Do
   - Mai-Vu Tran
 
@@ -30,8 +30,8 @@ publishDate: '2023-07-24T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Asian Conference on Intelligent Information and Database Systems*
+publication_short: In *ACIIDS*
 
 abstract: Most existing extractive summarization models use the original text’s internal information and calculate each sentence’s importance individually. When applied to specific domains (such as verbal text, biomedical literature, etc.), these models have some drawbacks the variety of synonym terms, unknown words or terminologies, and the intra-document and inter-document relations between sentences or terms. In this work, we proposed an ontology-based summarization model that leverages many knowledge bases to understand the input documents. Our proposed model was built with an integrated ontology and a signal transmission-based method for extending domain knowledge such as related terms, and relationships between terms and sentences. The proposed model has been proven effective with the highest ROUGE-2 F1 score in the test dataset of the MEDIQA 2021 MAS shared tasks.
 

@@ -56,15 +56,14 @@ education:
     summary: |
       GPA: 88.67/100
       Courses included:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
+      - Functional Programming
+      - Operating Systems
+      - Advanced Natural Language Processing
+      - Innovation Theory and Methodology for Social Competencies
+      - Innovation Theory and Methodology for Creativity
+      - Science and Technology Minor Research Project
+      - Analysis for Information Science
+      - Game Informatics
       Thesis on Weakly Supervised Opinion Summarization with Focus on Implicit Aspects. Supervised by [Assoc Prof. Kiyoaki Shirai](https://www.jaist.ac.jp/~kshirai/index-e.html).
     button:
       text: ' Read research Proposal'
@@ -75,51 +74,62 @@ education:
     date_end: 2022-07-31
     summary: |
       GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on Construction and Development of the BEEBOVOCAB Vocabulary Learning Support System Based on Frequency Studies and User Interactions. Supervised by [Dr. Trung Tuan Nguyen](https://nct.neu.edu.vn/staff/nguyen-trung-tuan/).
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Research Intern
+    company_name: Asian Institute of Digital Finance, NUS Singapore
+    company_url: 'https://www.aidf.nus.edu.sg/'
+    company_logo: 'https://www.aidf.nus.edu.sg/wp-content/uploads/2023/01/NUS-AIDF-Logo-2023-190x63.png'
+    date_start: 2024-06-12
+    date_end: 2024-08-27
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Participating in enhancing the default forecasting models of Vietnamese SMEs by applying novel approaches based on text information.
+      - Improving the quality of the corpus by the introduction of additional linguistic textual features, modeling and testing of the emotion recognition system specific to the Vietnamese language, and improving the process of database filling explaining the capabilities of working with vast amounts of information. I have achieved significant results by optimizing the data processing time 10 times faster than before.
+      - Joining in the Vietnam Credit Rating Project (VNCR) which contributed to the enhancement of credit risk assessment of local SMEs. Otherwise, I have preprocessed a large financial dataset provided by a Vietnamese partner.
+  - position: Teaching Assisstant
+    company_name: VNU University of Engineering and Technology
+    company_url: 'https://uet.vnu.edu.vn/en/'
+    company_logo: 'https://uet.vnu.edu.vn/en/wp-content/uploads/2017/02/logo-2.png'
+    date_start: 2023-09-01
+    date_end: 2024-06-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Teached 2 Database Administration courses for 75 students
+      - Teached 4 Information Technology Foundation courses for 80 students
+
+  - position: Research Assisstant
+    company_name: Data Science and Knowledge Technology Laboratory (FIT, VNU UET)
+    company_url: 'https://uet.vnu.edu.vn/en/'
+    company_logo: 'https://uet.vnu.edu.vn/en/wp-content/uploads/2017/02/logo-2.png'
+    date_start: 2023-04-01
+    date_end: 2024-06-01
+    summary: |
+      - Participated in 2 Datathon including Woman in Data Science (WiDS) Hackathon, Shecodes Hackathon Vietnam and a MEDIQA 2023 shared task
+      - Supported and helped the supervisor to keep track research group of 4 students in the opinion mining field
+      - Researched text summarization problems that focus on biomedical, and opinion-mining tasks that focus on aspect-based product reviews
+
+  - position: Software Engineer
+    company_name: Giaohangtietkiem Jsc.
+    company_url: 'https://giaohangtietkiem.vn/'
+    company_logo: 'https://giaohangtietkiem.vn/_next/image/?url=%2Flogo.png&w=1080&q=75'
+    date_start: 2021-06-15
+    date_end: 2023-03-25
+    summary: |
+      - Joined the Customer Service department which provides applications to enhance the convenience of customers when using Giaohangtietkiem service as a Web Engineer.
+      - Participated in developing and maintaining 7 projects of the CS team, including 2 essential projects of collaboration between Giaohangtietkiem Jsc. company and Apple Inc. (Order management system and Customer web system)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Python Packages
+        description: 'Pytorch, Numpy, Scipy, Scikit-Learn, Pandas, Seaborn, Matplotlib, BeautifulSoup, NLTK, SpaCy'
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Programming Languages
+        description: 'Python, PHP, JavaScript'
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -129,10 +139,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Photography
-        description: ''
+      - name: Dance
+        description: 'Hip-hop dance'
         percent: 80
-        icon: camera
+        icon: musical-note
 
 languages:
   - name: Vietnamese
@@ -144,32 +154,63 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Domestic Master’s Scholarship
+    url: https://vinif.org/en/sponsor-programs/postgraduate-scholarships/
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: Vingroup Innovation Foundation (VinIF)
+    icon: scholarship
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Domestic Master’s Scholarship from Domestic Master’s and Doctoral Training Scholarship Program of Vingroup Innovation Foundation Funding 2023
+  - title: Runner-up presentation
+    date: '2023-09-15'
+    url: https://soict.hust.edu.vn/summer-school/summer-school-2023
+    awarder: School of Information and Communications Technology, Hanoi University of Science and Technology
+    icon: podium
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+      Runner-up presentation at Summer school on Modern Machine Learning: Foundations and Applications hosted by The School of Information and Communication Technology - Hanoi University of Science and Technology Vietnam 2023
+  - title: 'MEDIQA 2023 Shared Tasks'
+    url: https://www.imageclef.org/2023/medical/mediqa
+    date: '2023-07-07'
+    awarder: MEDIQA
+    icon: medal
+    summary: |
+      Top 2 worldwide at the MEDIQA 2023 Shared Tasks (MEDIQA-Sum 2023 tasks) focus on the automatic summarization and classification of doctor-patient encounters to generate clinical notes
+  - title: 'WiDS Datathon 2023'
+    url: https://www.widsworldwide.org/events/event/wids-datathon-2023-adapting-to-climate-change-by-improving-extreme-weather-forecasts/
+    date: '2023-03-08'
+    awarder: WiDS Datathon
+    icon: medal
+    summary: |
+      Top 3 Vietnam, top 3% worldwide at the WiDS Datathon 2023 hosted by Stanford University
+  - title: 'Shecodes Hackathon 2022'
+    url: https://www.facebook.com/shecodesvietnam/
+    date: '2022-11-25'
     awarder: datacamp
-    icon: datacamp
+    icon: medal
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Top 3 Vietnam at the Shecodes Hackathon 2022 hosted by Shecodes Vietnam
+  - title: 'Outstanding undergraduate student award'
+    date: '2019-10-21'
+    awarder: National Economics University
+    icon: graduation-cap
+    summary: |
+      Outstanding undergraduate student award from 2018 – 2019 awarded by the National Economics University
+  - title: 'Consolation Prize at Scientific Research'
+    date: '2019-01-21'
+    awarder:  National Economics University
+    icon: certificate
+  - title: 'Excellent internship'
+    date: '2021-07-25'
+    awarder: Giaohangtietkiem JSC
+    icon: certificate
+  - title: 'Annual Scholarship for outstanding students'
+    date: '2018 – 2019 and 2020 – 2021'
+    awarder:  National Economics University
+    icon: certificate
+    summary: |
+      Annual Scholarship for outstanding students semester granted by National Economics University; covered 80% tuition fee for outstanding student
 ---
 
 ## About Me
