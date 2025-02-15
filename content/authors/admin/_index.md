@@ -160,55 +160,51 @@ awards:
     url: https://vinif.org/en/sponsor-programs/postgraduate-scholarships/
     date: '2023-11-25'
     awarder: Vingroup Innovation Foundation (VinIF)
-    icon: scholarship
     summary: |
       Domestic Master’s Scholarship from Domestic Master’s and Doctoral Training Scholarship Program of Vingroup Innovation Foundation Funding 2023
   - title: Runner-up presentation
     date: '2023-09-15'
     url: https://soict.hust.edu.vn/summer-school/summer-school-2023
     awarder: School of Information and Communications Technology, Hanoi University of Science and Technology
-    icon: podium
     summary: |
       Runner-up presentation at Summer school on Modern Machine Learning: Foundations and Applications hosted by The School of Information and Communication Technology - Hanoi University of Science and Technology Vietnam 2023
   - title: 'MEDIQA 2023 Shared Tasks'
     url: https://www.imageclef.org/2023/medical/mediqa
     date: '2023-07-07'
     awarder: MEDIQA
-    icon: medal
     summary: |
       Top 2 worldwide at the MEDIQA 2023 Shared Tasks (MEDIQA-Sum 2023 tasks) focus on the automatic summarization and classification of doctor-patient encounters to generate clinical notes
   - title: 'WiDS Datathon 2023'
     url: https://www.widsworldwide.org/events/event/wids-datathon-2023-adapting-to-climate-change-by-improving-extreme-weather-forecasts/
     date: '2023-03-08'
     awarder: WiDS Datathon
-    icon: medal
     summary: |
       Top 3 Vietnam, top 3% worldwide at the WiDS Datathon 2023 hosted by Stanford University
   - title: 'Shecodes Hackathon 2022'
     url: https://www.facebook.com/shecodesvietnam/
     date: '2022-11-25'
     awarder: datacamp
-    icon: medal
     summary: |
       Top 3 Vietnam at the Shecodes Hackathon 2022 hosted by Shecodes Vietnam
+  - title: 'Excellent internship'
+    date: '2021-07-25'
+    awarder: Giaohangtietkiem JSC
+  - title: 'Annual Scholarship for outstanding students'
+    date: '2021-01-21'
+    awarder:  National Economics University
+    summary: |
+      Annual Scholarship for outstanding students semester granted by National Economics University; covered 80% tuition fee for outstanding student
   - title: 'Outstanding undergraduate student award'
     date: '2019-10-21'
     awarder: National Economics University
-    icon: graduation-cap
     summary: |
       Outstanding undergraduate student award from 2018 – 2019 awarded by the National Economics University
   - title: 'Consolation Prize at Scientific Research'
     date: '2019-01-21'
     awarder:  National Economics University
-    icon: certificate
-  - title: 'Excellent internship'
-    date: '2021-07-25'
-    awarder: Giaohangtietkiem JSC
-    icon: certificate
   - title: 'Annual Scholarship for outstanding students'
-    date: '2018 – 2019 and 2020 – 2021'
+    date: '2019-01-21'
     awarder:  National Economics University
-    icon: certificate
     summary: |
       Annual Scholarship for outstanding students semester granted by National Economics University; covered 80% tuition fee for outstanding student
 ---
